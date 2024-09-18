@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Munna</h1>
 <h3 align="center">A passionate learner aiming to become a full-stack developer from Dhaka, Bangladesh.</h3>
-<img align="right" alt="Coding" hight="100" width-"100" src="https://s5.ezgif.com/tmp/ezgif-5-d24b75d092.gif">
+<img align="right" alt="Coding" hight="100" width-"100" src="https://i.postimg.cc/mZpJqF74/coading-unscreen.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmunnamia0&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmunnamia0" /> </p>
 
