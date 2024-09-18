@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Munna</h1>
 <h3 align="center">A passionate learner aiming to become a full-stack developer from Dhaka, Bangladesh.</h3>
-<img align="right" alt="Coding" width="450" height="350" src="https://i.ibb.co.com/87RcWb3/Programmer.gif" style="border-radius:15px;">
+<p align="right">
+  <img src="https://i.ibb.co.com/87RcWb3/Programmer.gif" alt="Coding" width="450" height="350" style="border-radius:50%">
+</p>
+
 
 
 
