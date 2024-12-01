@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mohammad Munna</h1>
+
 <h3 align="center">A passionate learner aiming to become a full-stack developer from Dhaka, Bangladesh.</h3>
-<img align="right" alt="Coding" width ="430" hight="320" src="https://i.ibb.co.com/87RcWb3/Programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmunnamia0&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmunnamia0" /> </p>
+ <img 
+     align="right"
+        alt="Coding" 
+        src="https://i.ibb.co.com/87RcWb3/Programmer.gif" 
+        style="display: block; margin: 400px auto 0 auto; width: 430px; height: 320px;">
 
-<h1>About Me
+<h1>About
 <img src="https://camo.githubusercontent.com/2f611d1c70a7596bf6a0c6fa6bd14416758c33fb6a6bb7d7b66083d431855824/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f5a474870577a644f456b4d4b74774c7164632f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" alt="Avatar" style="width: 100px; height: 100px; border-radius: 50%;">
-
 </h1>
-
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -16,7 +19,11 @@
 
 - 📫 How to reach me **mohammadmunnamia0@gmail.com**
 
-- ⚡ fact **Programming is not easy until you solve it.**
+- 🔭 I’m currently working on building **scalable web applications and APIs.**
+
+- ✍️ I regularly write about programming concepts and best practices to enhance my understanding.
+
+- ⚡ Fun fact: **Programming is not easy until you solve it, but once you do, it's incredibly rewarding!**
 
 <h3 align="left">Connect with me: 🤗</h3>
 <div align="left">
