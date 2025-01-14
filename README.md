@@ -29,10 +29,10 @@
 <div align="left">
 <!--   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /> -->
   
-<a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/muhammad01munna/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
-  <a href="https://twitch.tv/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/munna_mohamma" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
   </a>
   <a href="https://discord.gg/yourinvitecode" target="_blank" rel="noopener noreferrer">
@@ -41,7 +41,7 @@
   <a href="mailto:mohammadmunnamia0@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/mohammad-munna-mia-340225219/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://hashnode.com/@yourusername" target="_blank" rel="noopener noreferrer">
