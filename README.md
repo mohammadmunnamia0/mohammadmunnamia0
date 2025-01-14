@@ -35,7 +35,7 @@
   <a href="https://x.com/munna_mohamma" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
   </a>
-  <a href="https://discord.gg/yourinvitecode" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/937738620989763586" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
   </a>
   <a href="mailto:mohammadmunnamia0@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/mohammad-munna-mia-340225219/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://hashnode.com/@yourusername" target="_blank" rel="noopener noreferrer">
+  <a href="https://dev.to/mohammad_munnamia_9aaac5" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647238515419/g8ALIWNWW.png" height="35" alt="Hashnode logo" />
   </a>
 
