@@ -19,11 +19,11 @@
 </h1>
 
 - 🌱 With over a year of experience in web development, I’m now expanding my expertise as a **Developer & QA Enthusiast**
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, JavaScript**
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, JavaScript and Automation Testing.**
 - 🔭 I’m currently working on building **scalable web applications and APIs**
-- ✍️ I regularly write about programming concepts and best practices
+- ✍️ I’m using my development knowledge and daily practice to deepen my understanding and grow as a more skilled, well-rounded professional.
 - 📫 Reach me at: **mohammadmunnamia0@gmail.com**
-- ⚡ Fun fact: *Programming is not easy until you solve it, but once you do, it's incredibly rewarding!*
+- ⚡ Fun fact: *Development or Testing isn’t easy until you solve it — but once you do, it’s incredibly rewarding!*
 
 ---
 
