@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohammad Munna</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Munna Mia</h1>
 
-<h3 align="center">A passionate learner aiming to become a full-stack developer from Dhaka, Bangladesh.</h3>
+<h3 align="center"A passionate Developer & QA Enthusiast from Dhaka, Bangladesh, with over a year of hands-on experience in web development.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohammadmunnamia0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -18,7 +18,7 @@
   <img src="https://camo.githubusercontent.com/2f611d1c70a7596bf6a0c6fa6bd14416758c33fb6a6bb7d7b66083d431855824/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f5a474870577a644f456b4d4b74774c7164632f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" alt="Avatar" width="100" height="100" style="border-radius: 50%;">
 </h1>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 With over a year of experience in web development, I’m now expanding my expertise as a **Developer & QA Enthusiast**
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, JavaScript**
 - 🔭 I’m currently working on building **scalable web applications and APIs**
 - ✍️ I regularly write about programming concepts and best practices
