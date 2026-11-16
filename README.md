@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Md. Munna Mia, SQA Engineer, Dhaka, Bangladesh" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=280&color=0:0F172A,55:0E7490,100:0891B2&section=header&text=Md.%20Munna%20Mia&fontSize=60&fontColor=FFFFFF&fontAlignY=31&desc=SQA%20Engineer%20%C2%B7%20Dhaka%2C%20Bangladesh&descSize=20&descAlignY=49&animation=fadeIn" width="100%" alt="Md. Munna Mia, SQA Engineer, Dhaka, Bangladesh" />
 </p>
 
 <p align="center">
@@ -137,6 +137,8 @@ describe("Md. Munna Mia", () => {
   <a href="https://www.instagram.com/muhammad01munna/"><img src="https://skillicons.dev/icons?i=instagram" width="44" alt="Instagram" /></a>
 </p>
 
+<p align="center"><i>"A bug found before release is a bug a customer never sees."</i></p>
+
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="A bug found before release is a bug a customer never sees." />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:0891B2,45:0E7490,100:0F172A&section=footer" width="100%" alt="" />
 </p>
