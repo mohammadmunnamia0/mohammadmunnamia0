@@ -1,93 +1,118 @@
-<h1 align="center">Hi 👋, I'm Mohammad Munna Mia</h1>
+<h1 align="center">Hi 👋, I'm Md. Munna Mia</h1>
 
-<h3 align="center"A passionate Developer & QA Enthusiast from Dhaka, Bangladesh, with over a year of hands-on experience in web development.</h3>
+<h3 align="center">SQA Engineer from Dhaka, Bangladesh: manual and automated testing of web applications, with a developer's background.</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadmunnamia0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Optional avatar gif
-<img 
-  align="right"
-  alt="Coding" 
-  src="https://i.ibb.co.com/87RcWb3/Programmer.gif" 
-  style="width: 430px; height: 320px;">
--->
-
-<h1>About 
+<h1>About
   <img src="https://camo.githubusercontent.com/2f611d1c70a7596bf6a0c6fa6bd14416758c33fb6a6bb7d7b66083d431855824/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f5a474870577a644f456b4d4b74774c7164632f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" alt="Avatar" width="100" height="100" style="border-radius: 50%;">
 </h1>
 
-- 🌱 With over a year of experience in web development, I’m now expanding my expertise as a **Developer & QA Enthusiast**
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, JavaScript and Automation Testing.**
-- 🔭 I’m currently working on building **scalable web applications and APIs**
-- ✍️ I’m using my development knowledge and daily practice to deepen my understanding and grow as a more skilled, well-rounded professional.
+- 🧪 **SQA Engineer Trainee** at **SSCL (Spectrum Software & Consulting)**, doing functional, regression and on-site UAT testing for [OptiFin](https://sscl.tech/optifin/), a Supply Chain Finance solution used by leading banks in Bangladesh
+- 🤖 I automate tests with **Cypress (BDD/Cucumber, POM, Allure)**, **Selenium WebDriver + TestNG** and **Playwright**
+- 🔌 I test APIs with **Postman** and track work in **Jira** and **TestRail**
+- 💻 Before QA I worked as a **Front-end Developer** (Svelte, Tailwind) and **MERN Stack Developer intern**, so I know how the software I test gets built
+- ✅ At Edistys I designed and ran **120+ test cases** for live client websites alongside development work
+- 🎓 B.Sc. in Computer Science and Engineering, IUBAT (CGPA 3.70 / 4.00)
+- 🌐 Portfolio: **[codewithmunna.vercel.app](https://codewithmunna.vercel.app/)**
 - 📫 Reach me at: **mohammadmunnamia0@gmail.com**
-- ⚡ Fun fact: *Development or Testing isn’t easy until you solve it — but once you do, it’s incredibly rewarding!*
+- ⚡ Fun fact: *A bug found before release is a bug a customer never sees.*
+
+---
+
+### 🧪 Featured QA Projects
+
+| Project | What it covers | Stack |
+|---|---|---|
+| [**OptiFin Finance System E2E Automation**](https://github.com/mohammadmunnamia0/Cypress-Automation-With-BDD-Framework) | Fund Request, Limit Management, Invoice Processing, Approval, Settlement and role-based flows; positive, negative and validation scenarios | Cypress, Cucumber/Gherkin, POM, custom commands, Allure |
+| [**E-commerce Automation**](https://github.com/mohammadmunnamia0/e-commerce-automation) | Login, product search, cart and checkout, with cross-browser runs and HTML reports | Selenium WebDriver (Java), TestNG, POM |
+| [**SauceDemo Automation**](https://github.com/mohammadmunnamia0/Playwright-Automation-Project) | Full user journey: login, add to cart, verify product name, logout | Playwright, JavaScript |
+| [**Online Banking Website: Manual Testing**](https://github.com/mohammadmunnamia0/Manual-Testing-for-a-Banking-Website) | Functional and UI testing, test case design and bug reports across Chrome, Firefox and Edge | Manual testing, Excel, Word |
+
+---
+
+### 🛠️ Testing Tools & Skills
+
+**Automation & Testing**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge" alt="TestNG" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+**Test Management**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/TestRail-65C179?style=for-the-badge" alt="TestRail" />
+</p>
+
+**Languages & Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,html,css,tailwind,bootstrap,react,nextjs,nodejs,express,mongodb,svelte,git,github&perline=16" alt="Languages and development tools" />
+</p>
+
+**What I work on**
+
+Manual Testing · Test Automation · Test Case Writing · Bug Reporting & Bug Life Cycle · Re-testing · Regression Testing · UAT · Web Testing · API Testing & Validation · SQL · SDLC & STLC · Agile / Scrum · CI/CD
+
+---
+
+### 📜 Certifications
+
+- [Ostad: SQA, Manual & Automated Testing Course](https://ostad.app/share/certificate/c44788-md.-munna-mia)
+- [Edge Bangladesh: Manual and Automation Software Testing](https://drive.google.com/file/d/14sGysmqanKmNNEf1aGxr_AXzOwLF3MtO/view?usp=sharing)
+- [SQA Crash Course](https://drive.google.com/file/d/188H84Rg1QCyaBgR1hkGsPMpPYwS_B_Dn/view?usp=sharing)
+- [Full Stack Web Development Course](https://drive.google.com/file/d/1MDMVBM0wDx-lOF00mOitxKVJO644w0qO/view)
 
 ---
 
 ### 🤗 Connect with me
+
 <div align="left">
-  <a href="https://www.instagram.com/muhammad01munna/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://www.linkedin.com/in/mdmunnamia0" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://x.com/munna_mohamma" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discord.com/users/937738620989763586" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
+  <a href="https://codewithmunna.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:mohammadmunnamia0@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/mohammad-munna-mia-340225219/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
   <a href="https://dev.to/mohammad_munnamia_9aaac5" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647238515419/g8ALIWNWW.png" height="35" alt="Dev.to logo" />
+    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=devdotto&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://x.com/munna_mohamma" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://discord.com/users/937738620989763586" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.instagram.com/muhammad01munna/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
 ---
-<h3 style="text-align: center; margin-bottom: 20px;">🛠️ Languages & Tools</h3>
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap; align-items: center; flex-wrap: wrap; max-width: 100%; overflow-x: auto; padding: 10px 0;">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener" title="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener" title="HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener" title="CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener" title="Tailwind"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener" title="Express"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener" title="Firebase"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-</div>
-
-
-
 
 ### 📊 GitHub Stats
 
-| Language    | Usage      | Bar                        |
-|-------------|------------|----------------------------|
-| JavaScript  | 42%        | ██████████████████         |
-| TypeScript  | 7%         | ███                        |
-| C / C++     | 7%         | ███                        |
-| Python      | 5%         | ██                         |
-| HTML        | 18%        | ████████████               |
-| CSS         | 15%        | █████████                  |
-| Svelte      | 6%         | ██                         |
-
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadmunnamia0&show_icons=true&locale=en&count_private=true&cache_seconds=1800" alt="GitHub Stats" /> </p> 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadmunnamia0&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /> </p>
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadmunnamia0&show_icons=true&locale=en&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmunnamia0&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadmunnamia0&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</p>
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/mohammadmunnamia0/mohammadmunnamia0/blob/output/github-contribution-grid-snake-white.svg)
+![snake gif](https://raw.githubusercontent.com/mohammadmunnamia0/mohammadmunnamia0/output/github-contribution-grid-snake-white.svg)
